@@ -1,6 +1,8 @@
-//export const WHITELIST_CONTRACT_ADDRESS = "0x34f920326009728E355eb12a32D0fEb56978Ce87"; goerli
 export const WHITELIST_CONTRACT_ADDRESS =
-  "0xcab0730f87a937fEE54D79f85288Ea1DcAF54fbb"; // mumbai
+  "0x34f920326009728E355eb12a32D0fEb56978Ce87";
+goerli;
+// export const WHITELIST_CONTRACT_ADDRESS =
+//   "0xcab0730f87a937fEE54D79f85288Ea1DcAF54fbb"; // mumbai
 export const abi = [
   {
     inputs: [
